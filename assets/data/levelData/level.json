@@ -1,0 +1,37 @@
+{
+	"levelCnt" : 1,
+	"1": {
+		"object1" : {
+			"type" : "bed",
+			"locationX" : 144,
+			"locationY" : 14,
+			"resist" : 200,
+			"flammable" : 100,
+			"leaveRuin" : false
+		},
+		"object2" : {
+			"type" : "photo",
+			"locationX" : 404,
+			"locationY" : 70,
+			"resist" : 200,
+			"flammable" : 100,
+			"leaveRuin" : true
+		},
+		"object3" : {
+			"type" : "light",
+			"locationX" : 404,
+			"locationY" : 300,
+			"resist" : 200,
+			"flammable" : 100,
+			"leaveRuin" : true
+		},
+		"object4" : {
+			"type" : "box",
+			"locationX" : 204,
+			"locationY" : 300,
+			"resist" : 200,
+			"flammable" : 100,
+			"leaveRuin" : false
+		}
+	}
+}
