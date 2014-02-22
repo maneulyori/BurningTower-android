@@ -32,6 +32,30 @@
 			"resist" : 200,
 			"flammable" : 100,
 			"leaveRuin" : false
+		},
+		"object5" : {
+			"type" : "slogan",
+			"locationX" : 200,
+			"locationY" : 400,
+			"resist" : 200,
+			"flammable" : 100,
+			"leaveRuin" : true
+		},
+		"object6" : {
+			"type" : "whiteboard",
+			"locationX" : 400,
+			"locationY" : 400,
+			"resist" : 200,
+			"flammable" : 100,
+			"leaveRuin" : true
+		}
+		"object7" : {
+			"type" : "photo2",
+			"locationX" : 300,
+			"locationY" : 400,
+			"resist" : 200,
+			"flammable" : 100,
+			"leaveRuin" : true
 		}
 	}
 }
