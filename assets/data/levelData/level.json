@@ -48,11 +48,19 @@
 			"resist" : 200,
 			"flammable" : 100,
 			"leaveRuin" : true
-		}
+		},
 		"object7" : {
 			"type" : "photo2",
 			"locationX" : 300,
 			"locationY" : 400,
+			"resist" : 200,
+			"flammable" : 100,
+			"leaveRuin" : true
+		},
+		"object8" : {
+			"type" : "experiment_table",
+			"locationX" : 300,
+			"locationY" : 350,
 			"resist" : 200,
 			"flammable" : 100,
 			"leaveRuin" : true
