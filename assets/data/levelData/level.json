@@ -1,5 +1,8 @@
 {
 	"levelCnt" : 1,
+	"gameTick" : 50,
+	"defaultRange" : 80,
+	
 	"1": {
 		"object1" : {
 			"type" : "bed",
