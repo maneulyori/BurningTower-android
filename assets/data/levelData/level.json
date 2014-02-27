@@ -12,7 +12,7 @@
 			"storey" : {
 				"locationX" : 60,
 				"locationY" : 16,
-				"width" : 600,
+				"width" : 608,
 				"height" : 224,
 				"resist" : 400,
 				"flammable" : 100
@@ -46,7 +46,7 @@
 		"object4" : {
 			"type" : "photo",
 			"locationX" : 124,
-			"locationY" : 272,
+			"locationY" : 288,
 			"resist" : 200,
 			"flammable" : 100,
 			"leaveRuin" : true
@@ -54,7 +54,7 @@
 		"object5" : {
 			"type" : "photo",
 			"locationX" : 284,
-			"locationY" : 272,
+			"locationY" : 288,
 			"resist" : 200,
 			"flammable" : 100,
 			"leaveRuin" : true
@@ -62,7 +62,7 @@
 		"object6" : {
 			"type" : "photo",
 			"locationX" : 444,
-			"locationY" : 272,
+			"locationY" : 288,
 			"resist" : 200,
 			"flammable" : 100,
 			"leaveRuin" : true
@@ -74,7 +74,7 @@
 			"storey" : {
 				"locationX" : 60,
 				"locationY" : 16,
-				"width" : 600,
+				"width" : 608,
 				"height" : 224,
 				"resist" : 400,
 				"flammable" : 100
@@ -100,23 +100,23 @@
 		"object3" : {
 			"type" : "light",
 			"locationX" : 412,
-			"locationY" : 368,
+			"locationY" : 416,
 			"resist" : 200,
 			"flammable" : 100,
 			"leaveRuin" : true
 		},
 		"object4" : {
 			"type" : "box",
-			"locationX" : 204,
-			"locationY" : 300,
+			"locationX" : 92,
+			"locationY" : 256,
 			"resist" : 200,
 			"flammable" : 100,
 			"leaveRuin" : false
 		},
 		"object5" : {
 			"type" : "slogan",
-			"locationX" : 92,
-			"locationY" : 336,
+			"locationX" : 60,
+			"locationY" : 384,
 			"resist" : 200,
 			"flammable" : 100,
 			"leaveRuin" : true
@@ -124,23 +124,23 @@
 		"object6" : {
 			"type" : "whiteboard",
 			"locationX" : 380,
-			"locationY" : 688,
+			"locationY" : 496,
 			"resist" : 200,
 			"flammable" : 100,
 			"leaveRuin" : true
 		},
 		"object7" : {
 			"type" : "photo2",
-			"locationX" : 156,
-			"locationY" : 304,
+			"locationX" : 252,
+			"locationY" : 352,
 			"resist" : 200,
 			"flammable" : 100,
 			"leaveRuin" : true
 		},
 		"object8" : {
 			"type" : "experiment_table",
-			"locationX" : 252,
-			"locationY" : 240,
+			"locationX" : 444,
+			"locationY" : 256,
 			"resist" : 200,
 			"flammable" : 100,
 			"property" : "explosive",
