@@ -1,21 +1,86 @@
 {
 	"levelCnt" : 1,
-	"gameTick" : 150,
+	"gameTick" : 50,
 	"defaultRange" : 80,
 	"distinguish_x" : 70,
 	"distinguish_y" : 200,
 	"pyroMaxHeight" : 20, 
 	
-	"building" : {
-		"storey1" : {
-			"locationX" : 60,
-			"locationY" : 10,
-			"height" : 250
+	"splash": {
+		"moveCount" : 20,
+		"building" : {
+			"storey" : {
+				"locationX" : 60,
+				"locationY" : 16,
+				"width" : 600,
+				"height" : 224,
+				"resist" : 400,
+				"flammable" : 100
+			},
+			"floorcnt" : 2
+		},
+		"object1" : {
+			"type" : "photo",
+			"locationX" : 124,
+			"locationY" : 48,
+			"resist" : 200,
+			"flammable" : 100,
+			"leaveRuin" : true
+		},
+		"object2" : {
+			"type" : "photo",
+			"locationX" : 284,
+			"locationY" : 48,
+			"resist" : 200,
+			"flammable" : 100,
+			"leaveRuin" : true
+		},
+		"object3" : {
+			"type" : "photo",
+			"locationX" : 444,
+			"locationY" : 48,
+			"resist" : 200,
+			"flammable" : 100,
+			"leaveRuin" : true
+		},
+		"object4" : {
+			"type" : "photo",
+			"locationX" : 124,
+			"locationY" : 272,
+			"resist" : 200,
+			"flammable" : 100,
+			"leaveRuin" : true
+		},
+		"object5" : {
+			"type" : "photo",
+			"locationX" : 284,
+			"locationY" : 272,
+			"resist" : 200,
+			"flammable" : 100,
+			"leaveRuin" : true
+		},
+		"object6" : {
+			"type" : "photo",
+			"locationX" : 444,
+			"locationY" : 272,
+			"resist" : 200,
+			"flammable" : 100,
+			"leaveRuin" : true
 		}
 	},
-	
 	"1": {
 		"moveCount" : 20,
+		"building" : {
+			"storey" : {
+				"locationX" : 60,
+				"locationY" : 16,
+				"width" : 600,
+				"height" : 224,
+				"resist" : 400,
+				"flammable" : 100
+			},
+			"floorcnt" : 4
+		},
 		"object1" : {
 			"type" : "bed",
 			"locationX" : 144,
@@ -34,8 +99,8 @@
 		},
 		"object3" : {
 			"type" : "light",
-			"locationX" : 404,
-			"locationY" : 300,
+			"locationX" : 412,
+			"locationY" : 368,
 			"resist" : 200,
 			"flammable" : 100,
 			"leaveRuin" : true
@@ -50,32 +115,32 @@
 		},
 		"object5" : {
 			"type" : "slogan",
-			"locationX" : 200,
-			"locationY" : 400,
+			"locationX" : 92,
+			"locationY" : 336,
 			"resist" : 200,
 			"flammable" : 100,
 			"leaveRuin" : true
 		},
 		"object6" : {
 			"type" : "whiteboard",
-			"locationX" : 400,
-			"locationY" : 400,
+			"locationX" : 380,
+			"locationY" : 688,
 			"resist" : 200,
 			"flammable" : 100,
 			"leaveRuin" : true
 		},
 		"object7" : {
 			"type" : "photo2",
-			"locationX" : 300,
-			"locationY" : 400,
+			"locationX" : 156,
+			"locationY" : 304,
 			"resist" : 200,
 			"flammable" : 100,
 			"leaveRuin" : true
 		},
 		"object8" : {
 			"type" : "experiment_table",
-			"locationX" : 300,
-			"locationY" : 350,
+			"locationX" : 252,
+			"locationY" : 240,
 			"resist" : 200,
 			"flammable" : 100,
 			"property" : "explosive",
@@ -84,10 +149,10 @@
 		"object9" : {
 			"type" : "springkler",
 			"locationX" : 104,
-			"locationY" : 240,
-			"resist" : 100,
+			"locationY" : 176,
+			"resist" : 1,
 			"isMovable" : false,
-			"flammable" : 100,
+			"flammable" : 1,
 			"property" : "distinguisher",
 			"leaveRuin" : true
 		}
