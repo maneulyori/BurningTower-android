@@ -1,11 +1,21 @@
 {
 	"levelCnt" : 1,
-	"gameTick" : 50,
+	"gameTick" : 150,
 	"defaultRange" : 80,
 	"distinguish_x" : 70,
 	"distinguish_y" : 200,
+	"pyroMaxHeight" : 20, 
+	
+	"building" : {
+		"storey1" : {
+			"locationX" : 60,
+			"locationY" : 10,
+			"height" : 250
+		}
+	},
 	
 	"1": {
+		"moveCount" : 20,
 		"object1" : {
 			"type" : "bed",
 			"locationX" : 144,
@@ -69,6 +79,16 @@
 			"resist" : 200,
 			"flammable" : 100,
 			"property" : "explosive",
+			"leaveRuin" : true
+		},
+		"object9" : {
+			"type" : "springkler",
+			"locationX" : 104,
+			"locationY" : 240,
+			"resist" : 100,
+			"isMovable" : false,
+			"flammable" : 100,
+			"property" : "distinguisher",
 			"leaveRuin" : true
 		}
 	}
