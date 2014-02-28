@@ -149,6 +149,7 @@
 			"locationY" : 256,
 			"resist" : 200,
 			"flammable" : 100,
+			"height" : 150,
 			"property" : "explosive",
 			"placelocation" : "floor",
 			"leaveRuin" : true
@@ -162,6 +163,212 @@
 			"flammable" : 1,
 			"property" : "distinguisher",
 			"placelocation" : "ceiling",
+			"leaveRuin" : true
+		},
+		"object10" : {
+			"type" : "medicine_case",
+			"locationX" : 80,
+			"locationY" : 496,
+			"resist" : 200,
+			"flammable" : 100,
+			"height" : 150,
+			"property" : "explosive",
+			"placelocation" : "floor",
+			"leaveRuin" : true
+		},
+		"object11" : {
+			"type" : "medicine_case",
+			"locationX" : 280,
+			"locationY" : 522,
+			"resist" : 200,
+			"flammable" : 100,
+			"height" : 150,
+			"property" : "explosive",
+			"placelocation" : "floor",
+			"leaveRuin" : true
+		},
+	},
+	"2": {
+		"moveCount" : 60,
+		"building" : {
+			"storey" : {
+				"locationX" : 60,
+				"locationY" : 16,
+				"width" : 608,
+				"height" : 224,
+				"resist" : 400,
+				"flammable" : 100
+			},
+			"floorcnt" : 7
+		},
+		"object1" : {
+			"type" : "bed",
+			"locationX" : 144,
+			"locationY" : 14,
+			"resist" : 200,
+			"flammable" : 100,
+			"placelocation" : "floor", 
+			"leaveRuin" : false
+		},
+		"object2" : {
+			"type" : "photo",
+			"locationX" : 404,
+			"locationY" : 70,
+			"resist" : 200,
+			"flammable" : 100,
+			"leaveRuin" : true
+		},
+		"object3" : {
+			"type" : "light",
+			"locationX" : 412,
+			"locationY" : 416,
+			"resist" : 200,
+			"flammable" : 100,
+			"placelocation" : "ceiling",
+			"leaveRuin" : true
+		},
+		"object4" : {
+			"type" : "box",
+			"locationX" : 92,
+			"locationY" : 256,
+			"resist" : 200,
+			"flammable" : 100,
+			"placelocation" : "floor",
+			"leaveRuin" : false
+		},
+		"object5" : {
+			"type" : "slogan",
+			"locationX" : 60,
+			"locationY" : 384,
+			"resist" : 200,
+			"flammable" : 100,
+			"leaveRuin" : true
+		},
+		"object6" : {
+			"type" : "whiteboard",
+			"locationX" : 380,
+			"locationY" : 496,
+			"resist" : 200,
+			"flammable" : 100,
+			"leaveRuin" : true,
+			"placelocation" : "floor",
+			"width" : 160,
+			"height" : 80
+		},
+		"object7" : {
+			"type" : "photo2",
+			"locationX" : 252,
+			"locationY" : 352,
+			"resist" : 200,
+			"flammable" : 100,
+			"leaveRuin" : true
+		},
+		"object8" : {
+			"type" : "experiment_table",
+			"locationX" : 444,
+			"locationY" : 256,
+			"resist" : 200,
+			"flammable" : 100,
+			"property" : "explosive",
+			"placelocation" : "floor",
+			"leaveRuin" : true
+		},
+		"object9" : {
+			"type" : "springkler",
+			"locationX" : 264,
+			"locationY" : 208,
+			"resist" : 1,
+			"isMovable" : false,
+			"flammable" : 1,
+			"property" : "distinguisher",
+			"placelocation" : "ceiling",
+			"leaveRuin" : true
+		},
+		"object10" : {
+			"type" : "springkler",
+			"locationX" : 584,
+			"locationY" : 448,
+			"resist" : 1,
+			"isMovable" : false,
+			"flammable" : 1,
+			"property" : "distinguisher",
+			"placelocation" : "ceiling",
+			"leaveRuin" : true
+		},
+		"object11" : {
+			"type" : "springkler",
+			"locationX" : 392,
+			"locationY" : 688,
+			"resist" : 1,
+			"isMovable" : false,
+			"flammable" : 1,
+			"property" : "distinguisher",
+			"placelocation" : "ceiling",
+			"leaveRuin" : true
+		},
+		"object12" : {
+			"type" : "springkler",
+			"locationX" : 552,
+			"locationY" : 928,
+			"resist" : 1,
+			"isMovable" : false,
+			"flammable" : 1,
+			"property" : "distinguisher",
+			"placelocation" : "ceiling",
+			"leaveRuin" : true
+		},
+		"object13" : {
+			"type" : "springkler",
+			"locationX" : 264,
+			"locationY" : 1168,
+			"resist" : 1,
+			"isMovable" : false,
+			"flammable" : 1,
+			"property" : "distinguisher",
+			"placelocation" : "ceiling",
+			"leaveRuin" : true
+		},
+		"object14" : {
+			"type" : "springkler",
+			"locationX" : 136,
+			"locationY" : 1408,
+			"resist" : 1,
+			"isMovable" : false,
+			"flammable" : 1,
+			"property" : "distinguisher",
+			"placelocation" : "ceiling",
+			"leaveRuin" : true
+		},
+		"object15" : {
+			"type" : "springkler",
+			"locationX" : 360,
+			"locationY" : 1648,
+			"resist" : 1,
+			"isMovable" : false,
+			"flammable" : 1,
+			"property" : "distinguisher",
+			"placelocation" : "ceiling",
+			"leaveRuin" : true
+		},
+		"object16" : {
+			"type" : "experiment_table",
+			"locationX" : 504,
+			"locationY" : 730,
+			"resist" : 200,
+			"flammable" : 100,
+			"property" : "explosive",
+			"placelocation" : "floor",
+			"leaveRuin" : true
+		},
+		"object17" : {
+			"type" : "medicine_case",
+			"locationX" : 444,
+			"locationY" : 1023,
+			"resist" : 200,
+			"flammable" : 100,
+			"height" : 150,
+			"property" : "explosive",
+			"placelocation" : "floor",
 			"leaveRuin" : true
 		}
 	}
