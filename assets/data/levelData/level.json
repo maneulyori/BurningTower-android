@@ -178,8 +178,8 @@
 		},
 		"object11" : {
 			"type" : "medicine_case",
-			"locationX" : 280,
-			"locationY" : 522,
+			"locationX" : 216,
+			"locationY" : 736,
 			"resist" : 200,
 			"flammable" : 100,
 			"height" : 150,
@@ -187,6 +187,25 @@
 			"placelocation" : "floor",
 			"leaveRuin" : true
 		},
+		"object12" : {
+			"type" : "whiteboard",
+			"locationX" : 400,
+			"locationY" : 736,
+			"resist" : 200,
+			"flammable" : 100,
+			"leaveRuin" : true,
+			"placelocation" : "floor",
+			"width" : 160,
+			"height" : 80
+		},
+		"object13" : {
+			"type" : "slogan",
+			"locationX" : 400,
+			"locationY" : 864,
+			"resist" : 200,
+			"flammable" : 100,
+			"leaveRuin" : true
+		}
 	},
 	"2": {
 		"moveCount" : 60,
@@ -352,8 +371,8 @@
 		},
 		"object16" : {
 			"type" : "experiment_table",
-			"locationX" : 504,
-			"locationY" : 730,
+			"locationX" : 412,
+			"locationY" : 736,
 			"resist" : 200,
 			"flammable" : 100,
 			"property" : "explosive",
@@ -363,13 +382,135 @@
 		"object17" : {
 			"type" : "medicine_case",
 			"locationX" : 444,
-			"locationY" : 1023,
+			"locationY" : 976,
 			"resist" : 200,
 			"flammable" : 100,
 			"height" : 150,
 			"property" : "explosive",
 			"placelocation" : "floor",
 			"leaveRuin" : true
+		},
+		"object18" : {
+			"type" : "pc",
+			"locationX" : 124,
+			"locationY" : 976,
+			"resist" : 200,
+			"width" : 64,
+			"height" : 64,
+			"flammable" : 100,
+			"placelocation" : "floor",
+			"leaveRuin" : true
+		},
+		"object19" : {
+			"type" : "pc",
+			"locationX" : 188,
+			"locationY" : 1216,
+			"resist" : 200,
+			"width" : 64,
+			"height" : 64,
+			"flammable" : 100,
+			"placelocation" : "floor",
+			"leaveRuin" : true
+		},
+		"object20" : {
+			"type" : "tv",
+			"locationX" : 380,
+			"locationY" : 1216,
+			"resist" : 200,
+			"flammable" : 100,
+			"placelocation" : "floor",
+			"leaveRuin" : true
+		},
+		"object21" : {
+			"type" : "slogan",
+			"locationX" : 284,
+			"locationY" : 1344,
+			"resist" : 200,
+			"flammable" : 100,
+			"placelocation" : "wall",
+			"leaveRuin" : true
+		},
+		"object22" : {
+			"type" : "photo2",
+			"locationX" : 92,
+			"locationY" : 560,
+			"resist" : 200,
+			"flammable" : 100,
+			"placelocation" : "wall",
+			"leaveRuin" : true
+		},
+		"object23" : {
+			"type" : "computer",
+			"locationX" : 348,
+			"locationY" : 1456,
+			"resist" : 200,
+			"flammable" : 100,
+			"placelocation" : "floor",
+			"leaveRuin" : true
+		},
+		"object24" : {
+			"type" : "computer",
+			"locationX" : 508,
+			"locationY" : 1456,
+			"resist" : 200,
+			"flammable" : 100,
+			"placelocation" : "floor",
+			"leaveRuin" : true
+		},
+		"object25" : {
+			"type" : "computer",
+			"locationX" : 60,
+			"locationY" : 1456,
+			"resist" : 200,
+			"flammable" : 100,
+			"placelocation" : "floor",
+			"leaveRuin" : true
+		},
+		"object26" : {
+			"type" : "computer",
+			"locationX" : 188,
+			"locationY" : 1456,
+			"resist" : 200,
+			"flammable" : 100,
+			"placelocation" : "floor",
+			"leaveRuin" : true
+		},
+		"object27" : {
+			"type" : "experiment_table",
+			"locationX" : 60,
+			"locationY" : 976,
+			"resist" : 200,
+			"flammable" : 100,
+			"placelocation" : "floor",
+			"leaveRuin" : true
+		},
+		"object28" : {
+			"type" : "desk1",
+			"locationX" : 284,
+			"locationY" : 976,
+			"resist" : 200,
+			"flammable" : 100,
+			"placelocation" : "floor",
+			"leaveRuin" : false
+		},
+		"object29" : {
+			"type" : "desk2",
+			"locationX" : 476,
+			"locationY" : 1216,
+			"resist" : 200,
+			"flammable" : 100,
+			"placelocation" : "floor",
+			"leaveRuin" : false
+		},
+		"object29" : {
+			"type" : "desk2",
+			"locationX" : 92,
+			"locationY" : 736,
+			"resist" : 200,
+			"flammable" : 100,
+			"placelocation" : "floor",
+			"leaveRuin" : false
 		}
+		
 	}
 }
